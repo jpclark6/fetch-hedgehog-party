@@ -125,3 +125,11 @@ input::placeholder {
 #invite-btn:hover {
   background-color: #362256;
 }
+
+.success {
+  background-color: green;
+}
+
+.error {
+  background-color: red;
+}
